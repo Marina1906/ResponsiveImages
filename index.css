@@ -1,0 +1,20 @@
+*{box-sizing: border-box;}
+html, body, h1, h2, p, ul, li {margin: 0;
+padding: 0;}
+.banner {background-color: greenyellow;}
+.banner-img {width: 500px;
+max-width: 100%;
+display: block;
+margin: 0 auto;}
+.container {display: flex;
+margin: 1rem;
+gap: 1rem;}
+.card {}
+.card-img {width: 100%;
+object-fit: cover;}
+.bg-img {background-image: url("https://picsum.photos/id/1/900/1200");
+    background-color: aqua;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+height: 500px;}
